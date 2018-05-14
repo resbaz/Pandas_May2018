@@ -7,10 +7,10 @@ This Pandas workshop will be running from **1pm - 5pm on Tuesday 15th May**, at 
 There are currently a number of contruction works going on around the ERC however, and accessibility is limited. For an animated version of how to get into our space, follow our (sometimes) resident ResDog Snickers!
 
 *From the Swanston St Tram Stop*  
-[!Tramstop.gif](https://github.com/resbaz/Pandas_May2018/blob/master/Swanston%20tram%20to%20colab.gif)
+[Tramstop.gif](https://github.com/resbaz/Pandas_May2018/blob/master/Swanston%20tram%20to%20colab.gif)
 
 *From House of Cards Coffee Shop*
-[!Coffee.gif](https://github.com/resbaz/Pandas_May2018/blob/master/House%20of%20Cards%20to%20Colab.gif)
+[Coffee.gif](https://github.com/resbaz/Pandas_May2018/blob/master/House%20of%20Cards%20to%20Colab.gif)
 
 
 This workshop is designed for those trying to explore and learn about the Python package Pandas for the first time. The content is suitable for a range of learners, though users will preferably already have some familiarity with Python. 
